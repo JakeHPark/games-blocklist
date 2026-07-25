@@ -2873,6 +2873,7 @@
 ||hl2portal.net^
 ||hl2sucks.com^
 ||hlauth.net^
+||hltv.com^
 ||hobbit.weezeewig.com^
 ||hobowars.com^
 ||hobowars2.com^
