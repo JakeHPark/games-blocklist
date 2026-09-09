@@ -927,7 +927,6 @@
 ||brettspielwelt.de^
 ||bridgebase.com^
 ||brinquedos.tv^
-||britannica.com^
 ||british-legends.com^
 ||brokendagger.com^
 ||brokenfunction.com^
@@ -2014,7 +2013,6 @@
 ||fanatical.com^
 ||fanatijuegos.com^
 ||fandejuegos.com^
-||fandom.com^
 ||fanfox.net^
 ||fangaming.com^
 ||fanjeux.com^
@@ -5387,7 +5385,6 @@
 ||nxn.netgate.net^
 ||ny-mafia.com^
 ||nyan.link^
-||nytimes.com^
 ||nzone.com^
 ||o-a.info^
 ||o-jeux.fr^
@@ -7256,7 +7253,6 @@
 ||theglobalgaming.com^
 ||thegn.com^
 ||thegnuru.com^
-||theguardian.com^
 ||theheartofracing.org^
 ||thehidingroom.com^
 ||thehurttlockerr.blogspot.com^
@@ -8037,7 +8033,6 @@
 ||yaganio.free.fr^
 ||yakeo.com^
 ||yamago.net^
-||yandex.com^
 ||yankme.com^
 ||yaoi-eien.forumsactifs.com^
 ||yatsha.com^
