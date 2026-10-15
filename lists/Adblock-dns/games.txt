@@ -2345,7 +2345,6 @@
 ||frog2.born2play.org^
 ||frontier.mudservices.com^
 ||frontierfleet.com^
-||frontiersin.org^
 ||frostyz.com^
 ||frozenden.x3fusion.com^
 ||fruit-basket.forumactif.com^
